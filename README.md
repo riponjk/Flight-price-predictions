@@ -1,2 +1,2 @@
 # Flight-price-predictions
-Presentation video linl: https://youtu.be/tshL2254QVw
+Presentation video link: https://youtu.be/tshL2254QVw
